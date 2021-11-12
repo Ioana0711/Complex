@@ -6,6 +6,7 @@ public class Main {
             Operations.operations(args);
         } catch (MyExceptions ex) {
             System.out.println(ex.getMessage());
+            System.out.println("Congrats, it's on git");
         }
     }
 
