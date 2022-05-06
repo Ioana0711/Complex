@@ -1,0 +1,6 @@
+D:\AC#\Hello Rider\Hello Rider\bin\Debug\Hello_Rider.exe
+D:\AC#\Hello Rider\Hello Rider\bin\Debug\Hello_Rider.pdb
+D:\AC#\Hello Rider\Hello Rider\obj\Debug\Hello Rider.csproj.AssemblyReference.cache
+D:\AC#\Hello Rider\Hello Rider\obj\Debug\Hello Rider.csproj.CoreCompileInputs.cache
+D:\AC#\Hello Rider\Hello Rider\obj\Debug\Hello_Rider.exe
+D:\AC#\Hello Rider\Hello Rider\obj\Debug\Hello_Rider.pdb
